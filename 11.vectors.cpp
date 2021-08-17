@@ -1,5 +1,5 @@
-// Vector are like array, the memory is dynamically allocated. 
-//When it reaches to its full capacity a new memory is created with double the of the size of the previos vector
+// Vector are like arrays but in vector the memory is dynamically allocated. 
+//When it reaches to its full capacity a new memory is created with double the of the size of the previous vector
 // Push , Pop, insert  operations can be done on vectors
 
 
