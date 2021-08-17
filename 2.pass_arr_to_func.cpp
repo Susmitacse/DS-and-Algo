@@ -1,3 +1,4 @@
+// Passing array to function
 #include<iostream>
 using namespace std;
 
